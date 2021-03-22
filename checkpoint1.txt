@@ -1,0 +1,8 @@
+
+1- How does the web works?
+The World Wide Web is a huge network of hyperlinked documents (contain links in the text of a Web site you can click on) that are accessible over the Internet. These documents contain links to related supporting graphics, images, videos, and to other documents, and are usually grouped together as a Web site and stored on a computer connected to the Internet (Web Host) and are viewed with a Web browser on a computer or other smart device. The browser sends an HTTP request message to the server, asking it to send a copy of the website to the client (you go to the shop and order your goods). This message, and all other data sent between the client and the server, is sent across your internet connection using TCP/IP.
+2-What do you need to be a web developer?
+To be a web developper you have to develop your skills in HTML, CSS and JavaScript, the three pillars of the web so this three pilar make your website automatically work  defining the content to be displayed (HTML), telling a browser how to display that content (CSS), and making the content interactive (JavaScript), respectively.
+3-What’s the role of a web developer?
+Web developers design and build websites. They are typically responsible for the appearance, of the site and technical aspects, such as site speed and how much traffic the site can handle. Web developers may also create site content that requires technical features. 
+They are sometimes known as web designers or full-stack developers if they can do both front-end and back-end development.
